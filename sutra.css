@@ -1,0 +1,44 @@
+.navbar {
+    background-color: #2C2C2C;
+    color: black;
+}
+
+.navbarcontent {
+ text-decoration: none;
+}
+
+.offcanvas-header {
+    background-color: #2C2C2C;  
+}
+
+.offcanvas-title {
+    background-color: #2C2C2C; 
+}
+
+.offcanvas-body {
+    background-color: #2C2C2C; 
+}
+
+#engineering {
+    background-image: url(eq.png);
+    background-position: cover;
+    height: 1000px;
+    width: 1000px;
+    margin: 10px auto;
+}
+
+#productions {
+    background-image: url(audiomidi.png);
+    background-position: cover;
+    height: 1000px;
+    width: 1000px;
+    margin: 10px auto;
+}
+
+#lessons {
+    background-image: url(lessons.png);
+    background-position: cover;
+    height: 1000px;
+    width: 1000px;
+    margin: 10px auto; 
+}
